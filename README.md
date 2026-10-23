@@ -43,7 +43,7 @@ Replace `Main` with the actual entry-point class name if it differs.
 
 ## Usage
 
-Start the application from a terminal and follow the prompts displayed by the command-line interface.
+Start the application from a terminal and follow the command-line interface prompts.
 
 ## Project Structure
 
